@@ -3,7 +3,7 @@
 title: Website of EMoor
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
-remote_theme: thelehhman/texture
+theme: jekyll-theme-time-machine
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
