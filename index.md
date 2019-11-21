@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a PhD student in Economics at ETH Zürich.
+I am a PhD student in economics at ETH Zürich.
 
 ## Current Interests and Projects:
 
