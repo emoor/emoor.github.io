@@ -3,9 +3,9 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+PhD in Economics
 
-## Education
+## Education 
 
 `1990 - 1994`
 __University Name__
