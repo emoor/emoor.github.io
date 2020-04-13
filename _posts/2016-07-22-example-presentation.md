@@ -15,7 +15,7 @@ category: presentation
 </section>
 
 <section data-markdown>
-## HTML or Markdown
+## HTML or Markdown or both
 Reveal.js works with either. Use whatever you are more comfortable with.
 
 </section>
