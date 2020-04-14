@@ -3,6 +3,7 @@ title: "My second presentation"
 author: "Elias"
 date: "14 4 2020"
 output: github_document
+category: presentation
 ---
 
 ```{r setup, include=FALSE}
