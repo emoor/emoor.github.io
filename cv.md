@@ -62,6 +62,8 @@ __Current Job Title__, Current Employer
 - Task
 
 
+- [Download CV](pdf/CV_MoorElias.pdf)
+
 
 <!-- ### Footer
 
