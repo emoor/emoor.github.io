@@ -9,11 +9,13 @@ title: Projects
 
 MLATE
 
-For more infos, click [here](mlate.md).
+For more infos, click [here](projects/mlate.md).
 
 ### Identification and Estimation of Causal Intensive Margin Effects by Difference-in-Difference Methods
 
 CIME
+
+For more infos, click [here](projects/cime.md).
 
 ### Labor or Leisure? Labor Supply of Older Couples and the Role of Full Retirement Age
 
