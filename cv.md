@@ -7,13 +7,13 @@ title: CV
 ## Education 
 
 `2016 - 2020`
-__ETH Zurich__
+__ETH Zurich,__
 Doctor of Sciences, Economics
 
 Doctoral thesis: "Essays on Causal Inference in Economics: Methods and Applications"
 
 `2014 - 2016`
-__LMU Munich__
+__LMU Munich,__
 Master of Science, Economics
 
 Specialization: Applied Econometrics
@@ -22,7 +22,7 @@ Master thesis: "Forecasting Personal Consumption Expenditures Using Google Trend
 
 
 `2010 - 2013`
-__University of Bern__
+__University of Bern,__
 Bachelor of Science, Economics
 
 
