@@ -19,6 +19,9 @@ CIME
 
 LoL
 
+For more infos, click [here](projects/lol.md).
+
+
 
 
 ## Fun projects
