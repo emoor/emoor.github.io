@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-![image](images/mlate2.png){: width=100 style="float: left"}
+![image](images/mlate2.png){: width=50% style="float: left"}
 
 In August 2020 I completed my PhD on causal inference in economics at ETH Zurich. I am currently looking for a position as a data scientist, data analyst or economist with a strong quantitative focus.
 
