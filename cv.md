@@ -1,65 +1,42 @@
 ---
 layout: resume
+title: CV
 ---
-## Currently
 
-PhD in Economics
 
 ## Education 
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2016 - 2020`
+__ETH Zurich__
+Doctor of Sciences, Economics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+Doctoral thesis: "Essays on Causal Inference in Economics: Methods and Applications"
 
-## Awards
+`2014 - 2016`
+__LMU Munich__
+Master of Science, Economics
 
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
+Specialization: Applied Econometrics
+Master thesis: "Forecasting Personal Consumption Expenditures Using Google Trends"
 
 
-## Presentations
+`2010 - 2013`
+__University of Bern__
+Bachelor of Science, Economics
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
-## Occupation
+## Professional Experience
 
-`Current`
-__Current Job Title__, Current Employer 
+`2016-2020`
+__Research Associate__, ETH Zurich 
 
-- Task
-- Task
+`2014`
+__Intern Research Unit__, Deloitte 
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2013-2014`
+__Intern Monetary Policy Analysis Unit__, Swiss National Bank
 
-- Task
-- Task
 
 <!-- ## CV download
 
