@@ -3,10 +3,11 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a PhD student in economics at ETH Zürich. This is a test page.
+In August 2020 I completed my PhD on causal inference in economics at ETH Zurich. I am currently looking for a position as a data scientist, data analyst or economist with a strong quantitative focus.
 
-## Current Interests and Projects:
+I am very passionate about machine learning, data visualization and causal inference. In one chapter of my PhD thesis, I analyzed how machine learning methods can be applied to estimate causal effects. To illustrate my findings, I created an [interactive web app](https://eliasmoor.shinyapps.io/mlevaluation/) with Shiny. 
 
-- Website Design
-- [Shinyapps](https://eliasmoor.shinyapps.io/mlevaluation/)
-- Academia
+For more infos about my PhD thesis and my other projects, please visit my [projects](/projects/) page.
+
+
+
