@@ -8,6 +8,8 @@ layout: page
 
 MLATE
 
+For more infos, click [here](mlate.md).
+
 ## Identification and Estimation of Causal Intensive Margin Effects by Difference-in-Difference Methods
 
 CIME
