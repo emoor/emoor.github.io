@@ -1,21 +1,19 @@
 # Site navigation links
 - title: Home
   url: /
-
-- title: Presentations
-  url: /presentations/
   
-- title: Blog
-  url: /blog/
+- title: Projects
+  url: /projects/
+
+#- title: Presentations
+#  url: /presentations/
+  
+#- title: Blog
+#  url: /blog/
 
 - title: CV
   url: /cv/
 
-- title: Workshops
-  url: /workshops/
+#- title: Workshops
+#  url: /workshops/
   
-- title: ML ATE
-  url: /mlate/
-  
-- title: CIME
-  url: /cime/
