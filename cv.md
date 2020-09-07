@@ -17,7 +17,8 @@ __LMU Munich__
 Master of Science, Economics
 
 Specialization: Applied Econometrics
-\newline Master thesis: "Forecasting Personal Consumption Expenditures Using Google Trends"
+
+Master thesis: "Forecasting Personal Consumption Expenditures Using Google Trends"
 
 
 `2010 - 2013`
