@@ -11,7 +11,7 @@ I analyze the estimation of causal effects using machine learning methods. I stu
 
 To illustrate my findings, I created an [interactive online appendix](https://eliasmoor.shinyapps.io/mlevaluation/) with Shiny.
 
-This project was part of my [PhD thesis](projects/Doctoral_Thesis_EM.pdf). 
+This project was part of my [PhD thesis](projects/Doctoral_Thesis_EM.pdf#page=18). 
 
 <!-- 
 
@@ -27,7 +27,7 @@ causal intensive margin effect is defined as the treatment effect on the outcome
 with a positive outcome irrespective of whether they are treated or not, and is of interest for
 outcomes with corner solutions (e.g. expenditures, working hours). The main issue is to deal with a potential selection problem that arises when conditioning on positive outcomes. We derive sufficient conditions under which the difference-in-difference estimator - conditional on positive outcomes - identifies the causal intensive margin effect.
 
-This project (joint with Markus Hersche) was part of my [PhD thesis](projects/Doctoral_Thesis_EM.pdf). 
+This project (joint with Markus Hersche) was part of my [PhD thesis](projects/Doctoral_Thesis_EM.pdf#page=74). 
 
 <!-- 
 
@@ -40,7 +40,7 @@ For more infos, click [here](projects/cime.md).
 
 This paper estimates the labor supply response when the spouse reaches the full retirement age. We exploit the age difference within couples and changes in pension legislation in Switzerland to identify the causal effect. We estimate the effect not only on labor market participation (extensive margin), but also on working hours (intensive margin).
 
-This project (joint with Markus Hersche) was part of my [PhD thesis](projects/Doctoral_Thesis_EM.pdf). 
+This project (joint with Markus Hersche) was part of my [PhD thesis](projects/Doctoral_Thesis_EM.pdf#page=94). 
 
 <!-- 
 
