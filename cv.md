@@ -29,13 +29,13 @@ Bachelor of Science, Economics
 
 ## Professional Experience
 
-`2016-2020`
+`2016 - 2020`
 __Research Associate__, ETH Zurich 
 
 `2014`
 __Intern Research Unit__, Deloitte 
 
-`2013-2014`
+`2013 - 2014`
 __Intern Monetary Policy Analysis Unit__, Swiss National Bank
 
 
