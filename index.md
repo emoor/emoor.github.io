@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "Economist | Data Scientist"
 ---
 
 I am currently looking for a position as a data scientist, data analyst or economist with a strong quantitative focus. I am very passionate about statistics and machine learning, data visualization and causal inference.
