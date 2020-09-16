@@ -39,16 +39,17 @@ __Intern Research Unit__, Deloitte
 __Intern Monetary Policy Analysis Unit__, Swiss National Bank
 
 ## Software Skills
-- R (incl. Shiny): Very good knowledge
-- STATA: Very good knowledge
-- Groovy: Good knowledge
-- MATLAB: Good knowledge
-- LaTeX: Good knowledge
-- Python: Basic knowledge
-- SQL: Basic knowledge
-- Git/GitHub: Basic knowledge
-- Docker: Basic knowledge
-- VBA: Basic knowledge
+
+__R (incl. Shiny)__: Very good knowledge
+__STATA__: Very good knowledge
+__Groovy__: Good knowledge
+__MATLAB__: Good knowledge
+__LaTeX__: Good knowledge
+__Python__: Basic knowledge
+__SQL__: Basic knowledge
+__Git/GitHub__: Basic knowledge
+__Docker__: Basic knowledge
+__VBA__: Basic knowledge
 
 
 
