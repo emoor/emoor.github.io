@@ -41,14 +41,23 @@ __Intern Monetary Policy Analysis Unit__, Swiss National Bank
 ## Software Skills
 
 __R (incl. Shiny)__: Very good knowledge
+
 __STATA__: Very good knowledge
+
 __Groovy__: Good knowledge
+
 __MATLAB__: Good knowledge
+
 __LaTeX__: Good knowledge
+
 __Python__: Basic knowledge
+
 __SQL__: Basic knowledge
+
 __Git/GitHub__: Basic knowledge
+
 __Docker__: Basic knowledge
+
 __VBA__: Basic knowledge
 
 
