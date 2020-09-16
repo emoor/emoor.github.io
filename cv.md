@@ -38,6 +38,10 @@ __Intern Research Unit__, Deloitte
 `2013 - 2014`
 __Intern Monetary Policy Analysis Unit__, Swiss National Bank
 
+## Software Skills
+- R (incl. Shiny): Very good knowledge
+
+
 
 <!-- ## CV download
 
