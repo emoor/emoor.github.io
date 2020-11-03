@@ -9,7 +9,7 @@ title: Projects
 
 I analyze the estimation of causal effects using machine learning methods. I study regression estimators, matching on the propensity score, inverse probability weighting, and hybrid methods such as bias-corrected matching and doubly robust estimators. These estimators require the estimation of the conditional outcome means, the propensity score, or both. In empirical applications, these functions are often estimated with ordinary least squares or logit. In this project I additionally consider machine learning methods to estimate these functions. 
 
-To illustrate my findings, I created an [interactive online appendix](https://eliasmoor.shinyapps.io/mlevaluation/) with Shiny.
+To illustrate my findings, I created an [interactive online appendix](https://eliasmoor.shinyapps.io/mlevaluation/) with Shiny. The corresponding R code can be found on my [GitHub repo](https://github.com/emoor/mlevaluation).
 
 This project was part of my [PhD thesis](projects/Doctoral_Thesis_EM.pdf#page=18). 
 
