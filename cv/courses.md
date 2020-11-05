@@ -24,7 +24,8 @@ title: List of Completed Online Courses
 - Exploratory Data Analysis in R
 - Case Study: Exploratory Data Analysis in R
 - Correlation and Regression in R
-- Supervised Learning in R
+- Supervised Learning in R: Classification
+- Unsupervised Learning in R
 - Joining Data in SQL
 - Reporting with R Markdown
 
@@ -70,9 +71,7 @@ title: List of Completed Online Courses
 - Python Data Science Toolbox (Part 1)
 - Introduction to Git
 - Building Web Applications in R with Shiny
-- Supervised Learning in R: Classification
 - Data Visualization with ggplot2 (Part 3)
-- Unsupervised Learning in R
 - Foundations of Inference
 - Cloud Computing for Everyone
 - Working with the RStudio IDE (Part 1)
