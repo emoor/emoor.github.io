@@ -9,5 +9,9 @@ Under construction...
 
 [Statement](https://emoor.github.io/datacamp/DCdatascientistR.pdf)
 
+## DataCamp track: Data Analyst with R
+
+## DataCamp track: R Programmer
+
 
 
