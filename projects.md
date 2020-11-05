@@ -29,9 +29,9 @@ outcomes with corner solutions (e.g. expenditures, working hours). The main issu
 
 This project (joint with Markus Hersche) was part of my [PhD thesis](projects/Doctoral_Thesis_EM.pdf#page=74). 
 
-
+<!-- 
 For more infos, click [here](projects/cime.md).
-
+-->
 
 
 ### Labor or Leisure? Labor Supply of Older Couples and the Role of Full Retirement Age
