@@ -5,7 +5,6 @@ title: CV
 
 
 ## Education 
-
 `2016 - 2020`
 __ETH Zurich,__
 Doctor of Sciences, Economics <br>
@@ -16,7 +15,6 @@ __LMU Munich,__
 Master of Science, Economics <br>
 Specialization: Applied Econometrics <br>
 Master thesis: "Forecasting Personal Consumption Expenditures Using Google Trends"
-
 
 `2010 - 2013`
 __University of Bern,__
@@ -35,38 +33,34 @@ __Intern Monetary Policy Analysis Unit__, Swiss National Bank
 
 ## Software Skills
 
-__R (incl. Shiny)__: Very good knowledge
-
-__STATA__: Very good knowledge
-
-__Groovy__: Good knowledge
-
-__MATLAB__: Good knowledge
-
-__LaTeX__: Good knowledge
-
-__Python__: Basic knowledge
-
-__SQL__: Basic knowledge
-
-__Git/GitHub__: Basic knowledge
-
-__Docker__: Basic knowledge
-
-__VBA__: Basic knowledge
+__R (incl. Shiny)__: Very good knowledge <br>
+__STATA__: Very good knowledge <br>
+__Groovy__: Good knowledge <br>
+__MATLAB__: Good knowledge <br>
+__LaTeX__: Good knowledge <br>
+__Python__: Basic knowledge <br>
+__SQL__: Basic knowledge <br>
+__Git/GitHub__: Basic knowledge <br>
+__Docker__: Basic knowledge <br>
+__VBA__: Basic knowledge <br>
 
 ## Training and Courses
+`2016 - 2018`
+__ETH Zurich__: Computational Statistics, Machine Learning, Causality, Identification and Causal Inference, Empirical Methods in Energy and Environmental Economics, Advanced Microeconomics
 
-__ETH Zurich__: Computational Statistics, Machine Learning, Causality, Identification and Causal Inference, Empirical Methods in Energy and Environmental Economics, Advanced Microeconomics (2016-2018)
+`2016 - 2018`
+__University of Zurich__: Econometrics for Research Students I & II
 
-__University of Zurich__: Econometrics for Research Students I & II (2016-2018)
+`2017`
+__SZ Gerzensee__: Machine Learning for Treatment Effects and Structural Equation Models (Summer School)
 
-__SZ Gerzensee__: Machine Learning for Treatment Effects and Structural Equation Models (Summer School 2017)
+`2018`
+__University of St. Gallen__: Econometrics of Big Data (Summer School)
 
-__University of St. Gallen__: Econometrics of Big Data (Summer School 2018)
+`2019`
+__EPF Lausanne__: Computational Methods for Economists (Summer School)
 
-__EPF Lausanne__: Computational Methods for Economists (Summer School 2019)
-
+`2016 -`
 __Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer ([detailed list of completed courses](cv/courses.md)) 
 
 ## Languages
