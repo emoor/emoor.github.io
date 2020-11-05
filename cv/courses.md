@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List of completed online courses
+title: List of Completed Online Courses
 ---
 
 Under construction...
