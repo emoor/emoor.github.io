@@ -4,6 +4,9 @@ title: List of completed online courses
 ---
 
 
-## Education 
+## DataCamp track: Data Scientist with R
 
-under construction
+[Statement of Accomplishment](/datacamp/DCdatascientistR.pdf)
+
+
+
