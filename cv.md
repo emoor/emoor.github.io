@@ -46,21 +46,16 @@ __VBA__: Basic knowledge <br>
 
 ## Training and Courses
 `2016 - 2018`
-__ETH Zurich__: Computational Statistics, Machine Learning, Causality, Identification and Causal Inference, Empirical Methods in Energy and Environmental Economics, Advanced Microeconomics
-
+__ETH Zurich__: Computational Statistics, Machine Learning, Causality, Identification and Causal Inference, Empirical Methods in Energy and Environmental Economics, Advanced Microeconomics <br>
 `2016 - 2018`
-__University of Zurich__: Econometrics for Research Students I & II
-
+__University of Zurich__: Econometrics for Research Students I & II <br>
 `2017`
-__SZ Gerzensee__: Machine Learning for Treatment Effects and Structural Equation Models (Summer School)
-
+__SZ Gerzensee__: Machine Learning for Treatment Effects and Structural Equation Models (Summer School) <br>
 `2018`
-__University of St. Gallen__: Econometrics of Big Data (Summer School)
-
+__University of St. Gallen__: Econometrics of Big Data (Summer School) <br>
 `2019`
-__EPF Lausanne__: Computational Methods for Economists (Summer School)
-
-`2016 -`
+__EPF Lausanne__: Computational Methods for Economists (Summer School) <br>
+`2018 - 2019`
 __Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer ([detailed list of completed courses](cv/courses.md)) 
 
 ## Languages
@@ -70,7 +65,7 @@ __English__: Fluent (C2) <br>
 __French__: Good working knowledge (B2)
 
 
-
+<a href="http://google.com/" style="color:blue;">Google Link</a>
 
 <!-- ## CV download
 
