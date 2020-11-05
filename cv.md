@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 title: CV
 ---
 
@@ -8,15 +8,13 @@ title: CV
 
 `2016 - 2020`
 __ETH Zurich,__
-Doctor of Sciences, Economics
+Doctor of Sciences, Economics <br>
 Doctoral thesis: "Essays on Causal Inference in Economics: Methods and Applications"
 
 `2014 - 2016`
 __LMU Munich,__
-Master of Science, Economics
-
-Specialization: Applied Econometrics
-
+Master of Science, Economics <br>
+Specialization: Applied Econometrics <br>
 Master thesis: "Forecasting Personal Consumption Expenditures Using Google Trends"
 
 
@@ -29,11 +27,9 @@ Bachelor of Science, Economics
 ## Professional Experience
 
 `2016 - 2020`
-__Research Associate__, ETH Zurich 
-
+__Research Associate__, ETH Zurich <br>
 `2014`
-__Intern Research Unit__, Deloitte 
-
+__Intern Research Unit__, Deloitte <br>
 `2013 - 2014`
 __Intern Monetary Policy Analysis Unit__, Swiss National Bank
 
