@@ -78,7 +78,7 @@ __EPF Lausanne__: Computational Methods for Economists (Summer School 2019)
 
 ### Online
 
-__Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer ([detailed list of completed courses](courses.md))
+__Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer ([detailed list of completed courses](/courses/))
 
 ## Languages
 
