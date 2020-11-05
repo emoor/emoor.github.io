@@ -7,7 +7,7 @@ Under construction...
 
 ## DataCamp track: Data Scientist with R
 
-[Statement](datacamp/DCdatascientistR.pdf)
+[Statement](https://emoor.github.io/datacamp/DCdatascientistR.pdf)
 
 
 
