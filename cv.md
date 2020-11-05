@@ -72,7 +72,7 @@ __University of St. Gallen__: Econometrics of Big Data (Summer School 2018)
 
 __EPF Lausanne__: Computational Methods for Economists (Summer School 2019)
 
-__Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer ([detailed list of completed courses](/courses/)) 
+__Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer ([detailed list of completed courses](/courses)) 
 
 ## Languages
 
