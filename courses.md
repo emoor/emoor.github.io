@@ -1,11 +1,9 @@
 ---
 layout: resume
-title: courses
+title: List of completed online courses
 ---
 
 
 ## Education 
 
-#### Test 1
-
-Test 2
+under construction
