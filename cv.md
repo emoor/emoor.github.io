@@ -60,9 +60,27 @@ __Docker__: Basic knowledge
 
 __VBA__: Basic knowledge
 
-## Software Skills
+## Training and Courses
+### Offline
+__ETH Zurich__: Computational Statistics, Machine Learning, Causality, Identification and Causal Inference, Empirical Methods in Energy and Environmental Economics, Advanced Microeconomics (2016-2018)
 
+__University of Zurich__: Econometrics for Research Students I & II (2016-2018)
 
+__SZ Gerzensee__: Machine Learning for Treatment Effects and Structural Equation Models (Summer School 2017)
+
+__University of St. Gallen__: Econometrics of Big Data (Summer School 2018)
+
+__EPF Lausanne__: Computational Methods for Economists (Summer School 2019)
+
+### Online
+
+__Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer ([detailed list of completed courses(courses.md) )
+
+## Languages
+
+__German__: Mother tongue
+__English__: Fluent (C2)
+__French__: Good working knowledge (B2)
 
 
 
