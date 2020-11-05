@@ -9,7 +9,6 @@ title: CV
 `2016 - 2020`
 __ETH Zurich,__
 Doctor of Sciences, Economics
-
 Doctoral thesis: "Essays on Causal Inference in Economics: Methods and Applications"
 
 `2014 - 2016`
@@ -72,17 +71,13 @@ __University of St. Gallen__: Econometrics of Big Data (Summer School 2018)
 
 __EPF Lausanne__: Computational Methods for Economists (Summer School 2019)
 
-__Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer ( [detailed list of completed courses](cv/courses.md)) 
+__Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer ([detailed list of completed courses](cv/courses.md)) 
 
 ## Languages
 
 __German__: Mother tongue
-
 __English__: Fluent (C2)
-
 __French__: Good working knowledge (B2)
-
-[Test link to Google](https://www.google.com)
 
 
 
