@@ -32,7 +32,13 @@ Under construction...
 
 ## DataCamp track: Data Analyst with R
 
+[Statement of Accomplishment](/datacamp/DCdataanalystR.pdf)
+
+
 ## DataCamp track: R Programmer
+
+[Statement of Accomplishment](/datacamp/DCRprogrammer.pdf)
+
 
 
 

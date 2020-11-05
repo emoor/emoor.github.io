@@ -25,9 +25,11 @@ Bachelor of Science, Economics
 ## Professional Experience
 
 `2016 - 2020`
-__Research Associate__, ETH Zurich <br>
+__Research Associate__, ETH Zurich
+
 `2014`
-__Intern Research Unit__, Deloitte <br>
+__Intern Research Unit__, Deloitte
+
 `2013 - 2014`
 __Intern Monetary Policy Analysis Unit__, Swiss National Bank
 
@@ -46,17 +48,22 @@ __VBA__: Basic knowledge <br>
 
 ## Training and Courses
 `2016 - 2018`
-__ETH Zurich__: Computational Statistics, Machine Learning, Causality, Identification and Causal Inference, Empirical Methods in Energy and Environmental Economics, Advanced Microeconomics <br>
+__ETH Zurich__: Computational Statistics, Machine Learning, Causality, Identification and Causal Inference, Empirical Methods in Energy and Environmental Economics, Advanced Microeconomics
+
 `2016 - 2018`
-__University of Zurich__: Econometrics for Research Students I & II <br>
+__University of Zurich__: Econometrics for Research Students I & II
+
 `2017`
-__SZ Gerzensee__: Machine Learning for Treatment Effects and Structural Equation Models (Summer School) <br>
+__SZ Gerzensee__: Machine Learning for Treatment Effects and Structural Equation Models (Summer School)
+
 `2018`
-__University of St. Gallen__: Econometrics of Big Data (Summer School) <br>
+__University of St. Gallen__: Econometrics of Big Data (Summer School)
+
 `2019`
-__EPF Lausanne__: Computational Methods for Economists (Summer School) <br>
+__EPF Lausanne__: Computational Methods for Economists (Summer School)
+
 `2018 - 2019`
-__Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer ([detailed list of completed courses](cv/courses.md)) 
+__Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer ([detailed list of completed courses](cv/courses.md) detailed list of completed courses available <a href="cv/courses.md" style="color:blue;">here</a>) 
 
 ## Languages
 
@@ -65,7 +72,7 @@ __English__: Fluent (C2) <br>
 __French__: Good working knowledge (B2)
 
 
-<a href="http://google.com/" style="color:blue;">Google Link</a>
+
 
 <!-- ## CV download
 
