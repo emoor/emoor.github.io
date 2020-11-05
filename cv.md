@@ -75,8 +75,8 @@ __Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer ([
 
 ## Languages
 
-__German__: Mother tongue
-__English__: Fluent (C2)
+__German__: Mother tongue <br>
+__English__: Fluent (C2) <br>
 __French__: Good working knowledge (B2)
 
 
