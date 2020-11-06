@@ -3,21 +3,7 @@ layout: resume
 title: CV
 ---
 
-
 ## Education 
-`**2016 - 2020**`
-__ETH Zurich,__
-Doctor of Sciences, Economics
-Doctoral thesis: "Essays on Causal Inference in Economics: Methods and Applications"  
-`2014 - 2016`
-__LMU Munich,__
-Master of Science, Economics
-Specialization: Applied Econometrics
-Master thesis: "Forecasting Personal Consumption Expenditures Using Google Trends"  
-`2010 - 2013`
-__University of Bern,__
-Bachelor of Science, Economics
-
 `2016 - 2020`
 __ETH Zurich,__
 Doctor of Sciences, Economics
@@ -33,8 +19,6 @@ Master thesis: "Forecasting Personal Consumption Expenditures Using Google Trend
 __University of Bern,__
 Bachelor of Science, Economics
 
-
-
 ## Professional Experience
 
 `2016 - 2020`
@@ -48,16 +32,25 @@ __Intern Monetary Policy Analysis Unit__, Swiss National Bank
 
 ## Software Skills
 
-__R (incl. Shiny)__: Very good knowledge <br>
-__STATA__: Very good knowledge <br>
-__Groovy__: Good knowledge <br>
-__MATLAB__: Good knowledge <br>
-__LaTeX__: Good knowledge <br>
-__Python__: Basic knowledge <br>
-__SQL__: Basic knowledge <br>
-__Git/GitHub__: Basic knowledge <br>
-__Docker__: Basic knowledge <br>
-__VBA__: Basic knowledge <br>
+__R (incl. Shiny)__: Very good knowledge
+
+__STATA__: Very good knowledge
+
+__Groovy__: Good knowledge
+
+__MATLAB__: Good knowledge
+
+__LaTeX__: Good knowledge
+
+__Python__: Basic knowledge
+
+__SQL__: Basic knowledge
+
+__Git/GitHub__: Basic knowledge
+
+__Docker__: Basic knowledge
+
+__VBA__: Basic knowledge
 
 ## Training and Courses
 `2016 - 2018`
@@ -80,8 +73,10 @@ __Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer (<
 
 ## Languages
 
-__German__: Mother tongue <br>
-__English__: Fluent (C2) <br>
+__German__: Mother tongue
+
+__English__: Fluent (C2)
+
 __French__: Good working knowledge (B2)
 
 
