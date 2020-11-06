@@ -8,8 +8,8 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Elias Moor
   avatar: eliasmoor.jpg
-  bio: "Economist | Data Scientist"
-  email: emoor@ethz.ch
+  bio: "Data Scientist | Economist"
+  email: eliasmoor@gmx.ch
   # Do not include the @ symbol in your Twitter username
   #twitter: laderast
   linkedin: eliasmoor #username
