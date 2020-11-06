@@ -5,7 +5,7 @@ title: CV
 
 
 ## Education 
-`2016 - 2020`
+`**2016 - 2020**`
 __ETH Zurich,__
 Doctor of Sciences, Economics
 Doctoral thesis: "Essays on Causal Inference in Economics: Methods and Applications"
