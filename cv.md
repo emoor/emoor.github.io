@@ -15,7 +15,7 @@ __LMU Munich,__
 Master of Science, Economics <br>
 Specialization: Applied Econometrics <br>
 Master thesis: "Forecasting Personal Consumption Expenditures Using Google Trends"
-<p style="margin-bottom:3cm;">This is the first question?</p>
+
 `2010 - 2013`
 __University of Bern,__
 Bachelor of Science, Economics
@@ -23,15 +23,15 @@ Bachelor of Science, Economics
 
 
 ## Professional Experience
-
+<p style="margin-bottom:0.5cm;">
 `2016 - 2020`
-__Research Associate__, ETH Zurich
-
+__Research Associate__, ETH Zurich</p>
+<p style="margin-bottom:0.5cm;">
 `2014`
-__Intern Research Unit__, Deloitte
-
+__Intern Research Unit__, Deloitte</p>
+<p style="margin-bottom:0.5cm;">
 `2013 - 2014`
-__Intern Monetary Policy Analysis Unit__, Swiss National Bank
+__Intern Monetary Policy Analysis Unit__, Swiss National Bank</p>
 
 ## Software Skills
 
