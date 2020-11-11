@@ -22,7 +22,7 @@ Bachelor of Science, Economics
 ## Professional Experience
 
 `2016 - 2020`
-__Research Associate__, ETH Zurich
+__Doctoral Student and Scientific Assistant__, ETH Zurich
 
 `2014`
 __Intern Research Unit__, Deloitte
