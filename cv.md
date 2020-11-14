@@ -69,7 +69,7 @@ __University of St. Gallen__: Econometrics of Big Data (Summer School)
 __EPF Lausanne__: Computational Methods for Economists (Summer School)
 
 `2018 - 2019`
-__Datacamp career tracks__: Data Scientist with R, Data Analyst with R, R Programmer (<a href="courses" style="text-decoration:underline;">detailed list of completed courses</a>) 
+__Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer (<a href="courses" style="text-decoration:underline;">detailed list of completed courses</a>) 
 
 ## Languages
 
@@ -78,9 +78,5 @@ __German__: Mother tongue
 __English__: Fluent (C2)
 
 __French__: Good working knowledge (B2)
-
-
-
-Last updated: November 2020
 
 
