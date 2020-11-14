@@ -36,6 +36,8 @@ __R (incl. Shiny)__: Very good knowledge
 
 __STATA__: Very good knowledge
 
+__SQL__: Good knowledge
+
 __Groovy__: Good knowledge
 
 __MATLAB__: Good knowledge
@@ -43,8 +45,6 @@ __MATLAB__: Good knowledge
 __LaTeX__: Good knowledge
 
 __Python__: Basic knowledge
-
-__SQL__: Basic knowledge
 
 __Git/GitHub__: Basic knowledge
 
@@ -69,7 +69,7 @@ __University of St. Gallen__: Econometrics of Big Data (Summer School)
 __EPF Lausanne__: Computational Methods for Economists (Summer School)
 
 `2018 - 2019`
-__Datacamp tracks__: Data Scientist with R, Data Analyst with R, R Programmer (<a href="courses" style="text-decoration:underline;">detailed list of completed courses</a>) 
+__Datacamp career tracks__: Data Scientist with R, Data Analyst with R, R Programmer (<a href="courses" style="text-decoration:underline;">detailed list of completed courses</a>) 
 
 ## Languages
 
@@ -87,8 +87,7 @@ __French__: Good working knowledge (B2)
 - [Download CV](pdf/CV_MoorElias.pdf) -->
 
 
-<!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2020
 
 
