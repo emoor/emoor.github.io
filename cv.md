@@ -81,13 +81,6 @@ __French__: Good working knowledge (B2)
 
 
 
-
-<!-- ## CV download
-
-- [Download CV](pdf/CV_MoorElias.pdf) -->
-
-
-
 Last updated: November 2020
 
 
