@@ -69,6 +69,7 @@ title: List of Completed Online Courses
 - Introduction to Python
 - Intermediate Python
 - Python Data Science Toolbox (Part 1)
+- Intermediate SQL
 - Introduction to Git
 - Building Web Applications in R with Shiny
 - Data Visualization with ggplot2 (Part 3)
