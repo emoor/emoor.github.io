@@ -36,7 +36,11 @@ __R (incl. Shiny)__: Very good knowledge
 
 __STATA__: Very good knowledge
 
+__Python__: Good knowledge
+
 __SQL__: Good knowledge
+
+__Git/GitHub__: Good knowledge
 
 __Groovy__: Good knowledge
 
@@ -44,9 +48,7 @@ __MATLAB__: Good knowledge
 
 __LaTeX__: Good knowledge
 
-__Python__: Basic knowledge
 
-__Git/GitHub__: Basic knowledge
 
 __Docker__: Basic knowledge
 
