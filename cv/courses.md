@@ -67,23 +67,21 @@ title: List of Completed Online Courses
 
 ## Other DataCamp courses
 
-- Introduction to Python
-- Intermediate Python
-- Python Data Science Toolbox (Part 1)
-- Intermediate SQL
-- Introduction to Git
-- Building Web Applications in R with Shiny
-- Data Visualization with ggplot2 (Part 3)
-- Foundations of Inference
-- Cloud Computing for Everyone
-- Working with the RStudio IDE (Part 1)
-- Working with the RStudio IDE (Part 2)
-- Machine Learning with caret in R
-- Modeling with Data in the Tidyverse
-- Working with Web Data in R
-- A/B Testing in R
-- Text Mining with Bag-of-Words in R
-- Introduction to Spark with sparklyr in R
+- Introduction to Python ([Certificate](/datacamp/IntroToPython.pdf))
+- Intermediate Python ([Certificate](/datacamp/IntermediatePython.pdf))
+- Python Data Science Toolbox (Part 1) ([Certificate](/datacamp/PythonDSToolbox1.pdf))
+- Intermediate SQL ([Certificate](/datacamp/IntermediateSQL.pdf))
+- Introduction to Git ([Certificate](/datacamp/IntroToGit.pdf))
+- Building Web Applications in R with Shiny ([Certificate](/datacamp/WebAppsShiny.pdf))
+- Data Visualization with ggplot2 (Part 3) ([Certificate](/datacamp/DataVizggplot2P3.pdf))
+- Cloud Computing for Everyone ([Certificate](/datacamp/CloudComputing.pdf))
+- Working with the RStudio IDE (Part 1) ([Certificate](/datacamp/RStudio1.pdf))b
+- Working with the RStudio IDE (Part 2) ([Certificate](/datacamp/RStudio2.pdf))
+- Modeling with Data in the Tidyverse ([Certificate](/datacamp/ModelingTidyverse.pdf))
+- Working with Web Data in R ([Certificate](/datacamp/WebData.pdf))
+- A/B Testing in R ([Certificate](/datacamp/ABTesting.pdf))
+- Text Mining with Bag-of-Words in R ([Certificate](/datacamp/TextMining.pdf))
+- Introduction to Spark with sparklyr in R ([Certificate](/datacamp/Spark.pdf))
 
 ## Udemy courses
 - Git Complete: The definitive, step-by-step guide to Git ([Certificate](/udemy/GitComplete.pdf))
