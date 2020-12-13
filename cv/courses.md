@@ -75,7 +75,7 @@ title: List of Completed Online Courses
 - Building Web Applications in R with Shiny ([Certificate](/datacamp/WebAppsShiny.pdf))
 - Data Visualization with ggplot2 (Part 3) ([Certificate](/datacamp/DataVizggplot2P3.pdf))
 - Cloud Computing for Everyone ([Certificate](/datacamp/CloudComputing.pdf))
-- Working with the RStudio IDE (Part 1) ([Certificate](/datacamp/RStudio1.pdf))b
+- Working with the RStudio IDE (Part 1) ([Certificate](/datacamp/RStudio1.pdf))
 - Working with the RStudio IDE (Part 2) ([Certificate](/datacamp/RStudio2.pdf))
 - Modeling with Data in the Tidyverse ([Certificate](/datacamp/ModelingTidyverse.pdf))
 - Working with Web Data in R ([Certificate](/datacamp/WebData.pdf))
