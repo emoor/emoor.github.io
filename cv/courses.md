@@ -3,6 +3,7 @@ layout: page
 title: List of Completed Online Courses
 ---
 
+
 ## DataCamp track: Data Scientist with R
 
 [Statement of Accomplishment](/datacamp/DCdatascientistR.pdf)
@@ -84,7 +85,8 @@ title: List of Completed Online Courses
 - Text Mining with Bag-of-Words in R
 - Introduction to Spark with sparklyr in R
 
-
+## Udemy courses
+- Git Complete: The definitive, step-by-step guide to Git ([Certificate](/udemy/GitComplete.pdf))
 
 
 
