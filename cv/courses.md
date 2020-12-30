@@ -85,6 +85,8 @@ title: List of Completed Online Courses
 
 ## Udemy courses
 - Git Complete: The definitive, step-by-step guide to Git ([Certificate](/udemy/GitComplete.pdf))
+- Bayesian Machine Learning in Python: A/B Testing ([Certificate](/udemy/BayesianML_ABTesting.pdf))
+
 
 
 
