@@ -73,15 +73,17 @@ title: List of Completed Online Courses
 - Intermediate SQL ([Certificate](/datacamp/IntermediateSQL.pdf))
 - Introduction to Git ([Certificate](/datacamp/IntroToGit.pdf))
 - Building Web Applications in R with Shiny ([Certificate](/datacamp/WebAppsShiny.pdf))
+- Database Design ([Certificate](/datacamp/DatabaseDesign.pdf))
+- Introduction to Spark with sparklyr in R ([Certificate](/datacamp/Spark.pdf))
+- Working with Web Data in R ([Certificate](/datacamp/WebData.pdf))
 - Data Visualization with ggplot2 (Part 3) ([Certificate](/datacamp/DataVizggplot2P3.pdf))
-- Cloud Computing for Everyone ([Certificate](/datacamp/CloudComputing.pdf))
 - Working with the RStudio IDE (Part 1) ([Certificate](/datacamp/RStudio1.pdf))
 - Working with the RStudio IDE (Part 2) ([Certificate](/datacamp/RStudio2.pdf))
 - Modeling with Data in the Tidyverse ([Certificate](/datacamp/ModelingTidyverse.pdf))
-- Working with Web Data in R ([Certificate](/datacamp/WebData.pdf))
 - A/B Testing in R ([Certificate](/datacamp/ABTesting.pdf))
 - Text Mining with Bag-of-Words in R ([Certificate](/datacamp/TextMining.pdf))
-- Introduction to Spark with sparklyr in R ([Certificate](/datacamp/Spark.pdf))
+- Cloud Computing for Everyone ([Certificate](/datacamp/CloudComputing.pdf))
+
 
 ## Udemy courses
 - Git Complete: The definitive, step-by-step guide to Git ([Certificate](/udemy/GitComplete.pdf))
