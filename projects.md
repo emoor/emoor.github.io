@@ -20,7 +20,7 @@ For more infos, click [here](projects/mlate.md).
 -->
 
 
-### Identification and Estimation of Intensive Margin Effects by Difference-in-Difference Methods, *published in the [Journal of Causal Inference (2020)](https://doi.org/10.1515/jci-2019-0035)*
+### Identification and Estimation of Intensive Margin Effects by Difference-in-Difference Methods, *[Journal of Causal Inference (2020)](https://doi.org/10.1515/jci-2019-0035)*
 
 This paper discusses identification and estimation of causal intensive margin effects. The
 causal intensive margin effect is defined as the treatment effect on the outcome of individuals
