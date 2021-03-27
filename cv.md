@@ -3,6 +3,20 @@ layout: resume
 title: CV
 ---
 
+## Professional Experience
+
+`2021 - `
+__Data Scientist__, QuantCo
+
+`2016 - 2020`
+__Doctoral Student and Scientific Assistant__, ETH Zurich
+
+`2014`
+__Intern Research Unit__, Deloitte
+
+`2013 - 2014`
+__Intern Monetary Policy Analysis Unit__, Swiss National Bank
+
 ## Education 
 `2016 - 2020`
 __ETH Zurich,__
@@ -18,17 +32,6 @@ Master thesis: "Forecasting Personal Consumption Expenditures Using Google Trend
 `2010 - 2013`
 __University of Bern,__
 Bachelor of Science, Economics
-
-## Professional Experience
-
-`2016 - 2020`
-__Doctoral Student and Scientific Assistant__, ETH Zurich
-
-`2014`
-__Intern Research Unit__, Deloitte
-
-`2013 - 2014`
-__Intern Monetary Policy Analysis Unit__, Swiss National Bank
 
 ## Software Skills
 

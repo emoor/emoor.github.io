@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-Here I show some CIME results... and from merge
+Here I show some CIME results...
 
 
 ## Idea for extension
