@@ -5,7 +5,7 @@ title: CV
 
 ## Professional Experience
 
-`2021 - `
+`2021 - present `
 __Data Scientist__, QuantCo
 
 `2016 - 2020`
